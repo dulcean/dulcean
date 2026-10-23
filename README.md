@@ -10,9 +10,9 @@
 <a href="https://www.linkedin.com/in/ivan-kalesnik-653a5a402/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <img src="https://komarev.com/ghpvc/?username=dulcean&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" alt="Profile views" />
 
-<img src="https://github.com/dulcean/dulcean/raw/main/gif2.gif"
+<img src="https://github.com/dulcean/dulcean/raw/main/.gif"
      alt="Dulcean's GIF"
-     width="100%"
+     width="80%"
      style="max-width:100%; height:auto; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
 </div>
 
