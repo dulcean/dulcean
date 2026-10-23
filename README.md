@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="https://github.com/dulcean/dulcean/raw/main/gif.gif" 
-       alt="Dulcean's GIF" 
-       width="100%" 
-       style="max-width:100%; height:auto; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-</p>
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,45:172554,100:7C3AED&text=DULCEAN&fontColor=FFFFFF&fontSize=65&fontAlignY=38&desc=AI%20%2F%20ML%20%2F%20MLOps%20%2F%20DevOps%20%2F%20SRE&descAlignY=60&descSize=18&animation=fadeIn" alt="DULCEAN header" />
@@ -17,6 +10,10 @@
 <a href="https://www.linkedin.com/in/ivan-kalesnik-653a5a402/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <img src="https://komarev.com/ghpvc/?username=dulcean&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" alt="Profile views" />
 
+<img src="https://github.com/dulcean/dulcean/raw/main/gif2.gif"
+     alt="Dulcean's GIF"
+     width="100%"
+     style="max-width:100%; height:auto; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
 </div>
 
 ---
