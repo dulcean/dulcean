@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/ivan-kalesnik-653a5a402/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <img src="https://komarev.com/ghpvc/?username=dulcean&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" alt="Profile views" />
 
-<img src="https://github.com/dulcean/dulcean/raw/main/.gif"
+<img src="https://github.com/dulcean/dulcean/raw/main/gif.gif"
      alt="Dulcean's GIF"
      width="80%"
      style="max-width:100%; height:auto; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
@@ -78,7 +78,7 @@ interests: [LLMs, distributed systems, scalable platforms]
 
 <br />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=dulcean&bg_color=0D1117&color=A78BFA&line=38BDF8&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true" alt="GitHub contribution activity" />
+<!-- <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=dulcean&bg_color=0D1117&color=A78BFA&line=38BDF8&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true" alt="GitHub contribution activity" /> -->
 
 </div>
 
