@@ -69,8 +69,8 @@ interests: [LLMs, distributed systems, scalable platforms]
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dulcean&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=38BDF8&rank_icon=github" alt="GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulcean&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Top languages" />
+<img width="49%" src="assets/github-stats.svg" alt="GitHub statistics" />
+<img width="49%" src="assets/top-languages.svg" alt="Top languages" />
 
 <br />
 
